@@ -12,6 +12,6 @@ A user-friendly tool used to make wine wrapped ports of Windows software for mac
 <br>
 
 ## Members
-- [VitorMM](https://github.com/vitor251093) for writting Kegworks-App from the ground up.
-- [PaulTheTall](https://www.paulthetall.com/) for constant test data and finding bugs.
-- [Gcenx](https://github.com/Gcenx) for maintaing the Wine Engines & upstream Winehq packages.
+- [Vitor](https://github.com/vitor251093) writting Kegworks-App from the ground up.
+- [PaulTheTall](https://www.paulthetall.com/) constant test data and finding bugs.
+- [Gcenx](https://github.com/Gcenx) maintaing the Wine Engines & upstream Winehq packages.
