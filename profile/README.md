@@ -11,6 +11,12 @@ A user-friendly tool used to make wine wrapped ports of Windows software for mac
 
 <br>
 
+<br>
+
+[![](https://dcbadge.limes.pink/api/server/vJTjDyzJM2?compact=true)](https://discord.gg/vJTjDyzJM2)
+
+<br>
+
 ## Members
 - [Vitor](https://github.com/vitor251093) writting Kegworks-App from the ground up.
 - [PaulTheTall](https://www.paulthetall.com/) constant test data and finding bugs.
