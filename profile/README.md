@@ -9,6 +9,12 @@ A user-friendly tool used to make wine wrapped ports of Windows software for mac
 > brew upgrade
 > brew install --cask --no-quarantine gcenx/wine/kegworks
 > ```
+>
+> How to install using [MacPorts](https://www.macports.org/)
+> ```
+> port selfupdate
+> port install kegworks
+> ```
 
 <br>
 
